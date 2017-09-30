@@ -1,0 +1,3 @@
+#  1.1 added code not to redFill 'Completion Date' column if blank
+#  1.1 file_path is changed to get the file name (without extension) and added 'comments.xlsx' string to the end. this will ensure that the file saved will be in the same name.
+#  1.2 fix to skip abandon action without due dates. this is lazy programming not trying to be efficient.
